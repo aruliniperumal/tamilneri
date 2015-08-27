@@ -1,9 +1,8 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
 <widget id="com.omtamil.pulanam" version="1.0.4" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>புலனம்</name>
+    <name>தமிழ் நெறி</name>
     <description>
-Pulanam - Tamil WhatsApp Archive
-    </description>
+தமிழ் நெறி செயலி    </description>
     <author email="muhelen@omtamil.com" href="http://omtamil.com">
 MUHELEN MURUGAN
     </author>
